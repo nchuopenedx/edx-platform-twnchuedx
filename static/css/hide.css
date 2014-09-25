@@ -2,8 +2,3 @@
    visibility: hidden;
 }
 
-a.media {
-    pointer-events: none;
-    cursor: default;
-
-}
